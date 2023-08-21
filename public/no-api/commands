@@ -1,0 +1,13 @@
+rm -rf .git
+
+rm -rf .git
+
+git init
+
+git pull origin main
+
+git branch -M main
+
+git remote add origin https://github.com/tswelopelemojewa/taxi-queue-app-uj-2023.git
+
+git clone https://github.com/tswelopelemojewa/taxi-queue-app-uj-2023.git
